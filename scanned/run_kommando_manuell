@@ -1,0 +1,21 @@
+تشغيل الأوامر يدوياً
+بدلاً من استخدام السكريبت، شغّل هذه الأوامر مباشرة:
+
+bash
+echo "جاري فحص النطاقات الفرعية لـ: yahosein.com"
+
+# 1. باستخدام subfinder
+subfinder -d yahosein.com -o subfinder.txt
+
+# 2. باستخدام assetfinder  
+assetfinder yahosein.com > assetfinder.txt
+
+# 3. باستخدام amass
+amass enum -passive -d yahosein.com -o amass.txt
+
+# 4. دمج النتائج
+cat subfinder.txt assetfinder.txt amass.txt | sort -u > all_subdomains.txt
+
+# 5. عرض النتائج
+echo "تم الانتهاء! النتائج في all_subdomains.txt"
+cat all_subdomains.txt

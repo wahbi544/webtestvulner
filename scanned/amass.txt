@@ -1,0 +1,3 @@
+[92myahosein.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92myahosein.com[0m[94m (FQDN)[0m
+[92myahosein.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns3.anwar5.net[0m[94m (FQDN)[0m
+[92myahosein.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns4.anwar5.net[0m[94m (FQDN)[0m

@@ -1,0 +1,1 @@
+# Nmap 7.95 scan initiated Sun Oct  5 04:31:41 2025 as: /usr/lib/nmap/nmap -sS -sV -sC -O -A -p- -T4 -oN full_scan.nmap yahosein.com

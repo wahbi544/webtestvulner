@@ -1,0 +1,24 @@
+[92myahosein.com[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92myahosein.com[0m[94m (FQDN)[0m
+[92myahosein.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns3.anwar5.net[0m[94m (FQDN)[0m
+[92myahosein.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns4.anwar5.net[0m[94m (FQDN)[0m
+audio.yahosein.com
+cpanel.audio.yahosein.com
+cpanel.files.yahosein.com
+cpcalendars.files.yahosein.com
+cpcontacts.files.yahosein.com
+files.yahosein.com
+hos.yahosein.com
+hs.yahosein.com
+mail.audio.yahosein.com
+mail.files.yahosein.com
+ns4.yahosein.com
+webdisk.audio.yahosein.com
+webdisk.files.yahosein.com
+webmail.audio.yahosein.com
+webmail.files.yahosein.com
+www.audio.yahosein.com
+www.files.yahosein.com
+www.hos.yahosein.com
+www.hs.yahosein.com
+www.yahosein.com
+yahosein.com

@@ -1,0 +1,6 @@
+▶ Requirement : go Lang (https://www.youtube.com/watch?v=dr2Wo7qETZ8)
+▶ Check : go version
+▶ Run : go install github.com/cgboal/sonarsearch/cmd/crobat@latest
+▶ Run : cp /root/go/bin/crobat /usr/local/go/bin/
+▶ Run (Check) : crobat -h
+▶ Run (Usage) : crobat -s “example.com”
